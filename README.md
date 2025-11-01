@@ -89,7 +89,7 @@ npm run format
 ## Environment
 No `.env` is required. All state is stored locally with AsyncStorage.
 
-## Navigation Map (Mermaid)
+## Navigation Map
 ```mermaid
 flowchart LR
   Login([LoginScreen]) --> Home([TaskList])
@@ -99,7 +99,7 @@ flowchart LR
   AddTask --> |Save| Home
 ```
 
-## Task Lifecycle (Mermaid)
+## Task Lifecycle
 ```mermaid
 stateDiagram-v2
   [*] --> pending
