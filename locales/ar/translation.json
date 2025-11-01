@@ -1,0 +1,58 @@
+{
+  "common": {
+    "buttons": {
+      "signIn": "تسجيل الدخول",
+      "saveTask": "حفظ المهمة",
+      "logout": "تسجيل الخروج",
+      "delete": "حذف",
+      "complete": "إكمال",
+      "markCompleted": "وضع علامة كمكتمل",
+      "markPending": "وضع علامة كمعلق",
+      "addNewTask": "+ إضافة مهمة جديدة"
+    },
+    "status": {
+      "all": "الكل",
+      "pending": "معلق",
+      "completed": "مكتمل",
+      "done": "منجز"
+    },
+    "empty": {
+      "noTasks": "لا توجد مهام",
+      "createFirst": "قم بإنشاء مهمتك الأولى للبدء!"
+    }
+  },
+  "auth": {
+    "welcome": "مرحباً بعودتك",
+    "signInMessage": "قم بتسجيل الدخول لإدارة مهامك",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    "emailRequired": "البريد الإلكتروني مطلوب",
+    "emailInvalid": "يرجى إدخال عنوان بريد إلكتروني صحيح",
+    "passwordRequired": "كلمة المرور مطلوبة",
+    "passwordMinLength": "يجب أن تكون كلمة المرور 6 أحرف على الأقل"
+  },
+  "tasks": {
+    "myTasks": "مهامي",
+    "addNewTask": "إضافة مهمة جديدة",
+    "newTask": "مهمة جديدة",
+    "taskDetails": "تفاصيل المهمة",
+    "title": "العنوان",
+    "titlePlaceholder": "أدخل عنوان المهمة",
+    "titleRequired": "العنوان مطلوب",
+    "description": "الوصف",
+    "descriptionPlaceholder": "أدخل وصف المهمة (اختياري)",
+    "dueDate": "تاريخ الاستحقاق",
+    "dueDateOptional": "تاريخ الاستحقاق (اختياري)",
+    "selectDate": "اختر تاريخ الاستحقاق",
+    "clearDate": "مسح التاريخ",
+    "created": "تم الإنشاء",
+    "due": "مستحق",
+    "notSet": "غير محدد",
+    "emptyAll": "لا توجد مهام",
+    "emptyFiltered": "لا توجد مهام {{filter}} في الوقت الحالي.",
+    "emptyCreate": "قم بإنشاء مهمتك الأولى للبدء!"
+  }
+}
+

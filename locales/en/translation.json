@@ -1,0 +1,58 @@
+{
+  "common": {
+    "buttons": {
+      "signIn": "Sign In",
+      "saveTask": "Save Task",
+      "logout": "Logout",
+      "delete": "Delete",
+      "complete": "Complete",
+      "markCompleted": "Mark as Completed",
+      "markPending": "Mark as Pending",
+      "addNewTask": "+ Add New Task"
+    },
+    "status": {
+      "all": "All",
+      "pending": "Pending",
+      "completed": "Completed",
+      "done": "Done"
+    },
+    "empty": {
+      "noTasks": "No tasks found",
+      "createFirst": "Create your first task to get started!"
+    }
+  },
+  "auth": {
+    "welcome": "Welcome Back",
+    "signInMessage": "Sign in to manage your tasks",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email address",
+    "passwordRequired": "Password is required",
+    "passwordMinLength": "Password must be at least 6 characters"
+  },
+  "tasks": {
+    "myTasks": "My Tasks",
+    "addNewTask": "Add New Task",
+    "newTask": "New Task",
+    "taskDetails": "Task Details",
+    "title": "Title",
+    "titlePlaceholder": "Enter task title",
+    "titleRequired": "Title is required",
+    "description": "Description",
+    "descriptionPlaceholder": "Enter task description (optional)",
+    "dueDate": "Due Date",
+    "dueDateOptional": "Due Date (Optional)",
+    "selectDate": "Select due date",
+    "clearDate": "Clear date",
+    "created": "Created",
+    "due": "Due",
+    "notSet": "Not set",
+    "emptyAll": "No tasks found",
+    "emptyFiltered": "No {{filter}} tasks at the moment.",
+    "emptyCreate": "Create your first task to get started!"
+  }
+}
+
